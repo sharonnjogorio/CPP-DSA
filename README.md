@@ -13,10 +13,10 @@
 
 ## Codility Challenge
 
-**Task:** Absolute Distinct Count — find the number of distinct absolute values in a sorted array.
+**Task:** Absolute Distinct Count - find the number of distinct absolute values in a sorted array.
 
 **Language used:** JavaScript
 
-**Result:** All example, correctness and performance tests passed — O(N) or O(N*log(N)) time complexity detected.
+**Result:** All example, correctness and performance tests passed - O(N) or O(N*log(N)) time complexity detected.
 
 Screenshot of the analysis: `codilitytest.png`
